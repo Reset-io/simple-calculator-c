@@ -15,6 +15,8 @@ This is a basic calculator program written in C.
 - Using if-else conditions
 - Debugging errors (like missing & in scanf)
 - Basic program flow
+- User input validation
+- Divison error input validation
 
 ## How to run
 1. Compile:
@@ -22,4 +24,4 @@ This is a basic calculator program written in C.
 2. Run:
    ./calc
 
-##It was quiet fun 
+
